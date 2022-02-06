@@ -1,0 +1,5 @@
+plugin: azure_rm
+include_vm_resource_groups:
+- my-Project
+auth_source: auto
+

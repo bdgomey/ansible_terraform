@@ -1,0 +1,1 @@
+ansible all -m ping -i ./in.myazure_rm.yml --private-key=~/.ssh/id_rsa --user=azureuser
